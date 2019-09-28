@@ -1,0 +1,28 @@
+.outline {
+    border: 1px solid black;
+}
+
+nav {
+    display: inline-block;
+    float: right;
+}
+
+.name {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.section {
+    width: 960px;
+    margin: 0px auto;
+}
+
+.heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffffff
+    
+}
+
+.body {
+    
+}
